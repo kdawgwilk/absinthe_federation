@@ -30,7 +30,7 @@ defmodule AbsintheFederation.MixProject do
         "priv",
         "*.exs",
         "*.md"
-        ],
+      ],
       maintainers: ["Kaden Wilkinson"],
       licenses: ["MIT"],
       links: %{github: @source_url}
