@@ -1,11 +1,15 @@
-# AbsintheFederation
+# Absinthe.Federation
 
-**TODO: Add description**
+[![Build Status](https://github.com/kdawgwilk/absinthe_federation/workflows/CI/badge.svg)](https://github.com/kdawgwilk/absinthe_federation/actions?query=workflow%3ACI)
+[![Hex pm](http://img.shields.io/hexpm/v/absinthe.svg)](https://hex.pm/packages/absinthe_federation)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-blue.svg)](https://hexdocs.pm/absinthe_federation/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) support for [Absinthe](https://github.com/absinthe-graphql/absinthe)
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `absinthe_federation` to your list of dependencies in `mix.exs`:
+Install from [Hex.pm](https://hex.pm/packages/absinthe_federation):
 
 ```elixir
 def deps do
@@ -15,7 +19,13 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/absinthe_federation](https://hexdocs.pm/absinthe_federation).
+## More Documentation
 
+See additional documentation, including guides, in the [Absinthe.Federation hexdocs](https://hexdocs.pm/absinthe_federation).
+## Contributing
+
+Refer to the [Contributing Guide](./CONTRIBUTING.md).
+
+## License
+
+See [LICENSE](./LICENSE)
