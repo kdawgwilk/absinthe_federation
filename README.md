@@ -28,4 +28,4 @@ Refer to the [Contributing Guide](./CONTRIBUTING.md).
 
 ## License
 
-See [LICENSE](./LICENSE)
+See [LICENSE](./LICENSE.md)
