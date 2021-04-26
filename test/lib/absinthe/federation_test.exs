@@ -1,8 +1,8 @@
 defmodule Absinthe.FederationTest do
-  use ExUnit.Case
-  doctest Absinthe.Federation
+  use Absinthe.Federation.Case
 
-  test "greets the world" do
-    assert Absinthe.Federation.hello() == :world
+
+  test "test" do
+
   end
 end
